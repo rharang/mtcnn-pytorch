@@ -1,0 +1,13 @@
+"Dazzle" images in this directory obtained from cvdazzle.com
+
+```
+wget https://cvdazzle.com/assets/img/feature-right.jpg -O ./dazzle1.jpg
+wget https://cvdazzle.com/assets/img/look3-md.jpg -O ./dazzle2.jpg
+wget https://cvdazzle.com/assets/img/look1-md.jpg -O ./dazzle3.jpg
+wget https://cvdazzle.com/assets/img/coreana/coreana-04-copyright-cha-hyun-seo.jpg -O ./dazzle4.jpg
+wget https://cvdazzle.com/assets/img/look2-md.jpg -O ./dazzle5.jpg
+wget https://cvdazzle.com/assets/img/look4-md.jpg -O ./dazzle6.jpg
+wget https://cvdazzle.com/assets/img/coreana/coreana-01-copyright-cha-hyun-seo.jpg -O ./dazzle7.jpg
+wget https://cvdazzle.com/assets/img/coreana/coreana-02-copyright-cha-hyun-seo.jpg -O ./dazzle8.jpg
+wget https://cvdazzle.com/assets/img/coreana/coreana-03-copyright-cha-hyun-seo.jpg -O ./dazzle9.jpg
+```
